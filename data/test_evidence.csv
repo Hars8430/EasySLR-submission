@@ -1,0 +1,18 @@
+account,topic,field,claim,tag,source_url,source_date,checked_by_you
+Northwind Outcomes Research Ltd,services,Services,Offers systematic literature reviews and HTA support,Verified,https://example.com/northwind,2026,Y
+Northwind Outcomes Research Ltd,headcount,Team size,40 staff,Verified,https://example.com/northwind-team,2026,Y
+Northwind Outcomes Research Limited,services,Services,Offers systematic literature reviews,Verified,https://example.com/northwind-b,2026,Y
+Northwind Outcomes Research Limited,headcount,Team size,40 staff,Verified,https://example.com/northwind-b,2026,Y
+Pharmaco Evidence Pvt Ltd,services,Services,Systematic reviews,Verified,https://example.com/pe,2026,Y
+Pharmaco Evidence Pvt Ltd,headcount,Team size,20 staff,Verified,https://example.com/pe,2026,Y
+Pharmacoevidence,services,Services,SLRs and modelling,Verified,https://example.com/pe2,2026,Y
+Pharmacoevidence,headcount,Team size,22 staff,Verified,https://example.com/pe2,2026,Y
+Harbour Evidence Partners,services,Services,Mentions literature reviews on a services page,Verified,,undated,
+Harbour Evidence Partners,headcount,Team size,Headcount not found,Unknown,Not found,,
+Harbour Evidence Partners,fit,Fit,Probably a good fit,Interpretation,Analyst judgement,,
+Beacon HEOR,services,Services,Systematic literature reviews for HTA submissions,Verified,https://example.com/beacon,2026,Y
+Beacon HEOR,headcount,Team size,22 employees,Verified,https://example.com/beacon-about,2026,Y
+Beacon HEOR,headcount,Team size,150 employees,Verified,https://example.com/beacon-linkedin,2024,Y
+Quayside Health Economics,services,Services,Runs SLRs for pharma clients,Verified,https://example.com/quayside,2026,Y
+Quayside Health Economics,hiring,Hiring,Advertises an evidence-review analyst role,Verified,https://example.com/quayside-jobs,2026,Y
+Quayside Health Economics,headcount,Team size,35 employees,Verified,https://example.com/quayside,2026,Y

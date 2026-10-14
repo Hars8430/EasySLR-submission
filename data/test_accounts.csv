@@ -1,0 +1,8 @@
+account,domain,hq,human_rank,human_verdict
+Northwind Outcomes Research Ltd,northwind-or.example,Test,1,TEST: duplicate pair (same domain)
+Northwind Outcomes Research Limited,https://www.northwind-or.example/about,Test,2,TEST: duplicate pair (same domain)
+Pharmaco Evidence Pvt Ltd,,Test,3,TEST: duplicate of real account (similar name only)
+Pharmacoevidence,pharmacoevidence.com,Test,4,TEST: the real account the line above duplicates
+Harbour Evidence Partners,harbour-ep.example,Test,5,TEST: missing evidence
+Beacon HEOR,beacon-heor.example,Test,6,TEST: conflicting information
+Quayside Health Economics,quayside-he.example,Test,7,TEST: clean account with an override

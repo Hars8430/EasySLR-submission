@@ -1,0 +1,37 @@
+account,topic,field,claim,tag,source_url,source_date,checked_by_you
+Pharmacoevidence,services,Services,"Specialises in systematic literature reviews, meta-analysis, NMA, economic modelling, medical writing and AI solutions",Verified,https://www.pharmacoevidence.com/about,undated,Y
+Pharmacoevidence,headcount,Team size,26 India-based employees,Verified,https://www.pharmacoevidence.com/about,undated,Y
+Pharmacoevidence,headcount,Team size,22 India-based employees (Great Place to Work listing),Verified,https://www.greatplacetowork.in/great/company/pharmacoevidence,undated,Y
+Pharmacoevidence,founded,Founded,Established in 2020,Verified,https://www.greatplacetowork.in/our-mission/,undated,Y
+Pharmacoevidence,size_class,Size class,Small business (1-10M TTM revenue),Verified,https://app.scientist.com/providers/pharmacoevidence-pvt-ltd,undated,Y
+Pharmacoevidence,clients,Clients,"Supports global SLR, NMA, modelling and writing projects for pharma companies and consultancies worldwide",Verified,https://www.pharmacoevidence.com/publications,undated,Y
+Pharmacoevidence,fit,Fit,"SLR is core work for them, so review efficiency matters to their delivery",Interpretation,Analyst judgement from rows above,,
+Pharmacoevidence,channel,Channel potential,Serving other consultancies could make them a channel as well as a customer,Interpretation,Analyst judgement from rows above,,
+Pharmacoevidence,in_house_tool,In-house tooling,"Has its own Pharmacoevidence AI/ML tool, used as a secondary screener in a NICE UK HTA submission (Nov 2025), per a poster whose contact address is at pharmacoevidence.com",Verified,https://www.ispor.org/docs/default-source/cti-meeting-21305-documents/1c2eb679-7018-411d-bf51-db33bf81cf93.pdf?sfvrsn=a400d8ae_0,cites Nov 2025,Y
+Pharmacoevidence,build_vs_buy,Build vs buy,"They already run their own AI tool, so EasySLR would have to complement it (partner, channel, or review types their tool does not cover) rather than replace it",Interpretation,Analyst judgement from rows above,,
+Pharmacoevidence,ai_tooling,Third-party tools,Whether they would use an external platform alongside their own tool not found,Unknown,Not found,,
+Source Health Economics,services,Services,"Consultancy specialising in health economics, data analysis, systematic literature review, medical writing and HTA",Verified,https://source-he.com/services/,undated,Y
+Source Health Economics,founded,Founded,"Established in 2016, based in Oxford, UK",Verified,https://source-he.com/,undated,Y
+Source Health Economics,size_class,Size class,revenue/ scale of business not found,Unknown,Not found,undated,
+Source Health Economics,volume,Review volume,Number of SLRs delivered per year not found,Unknown,Not found,,
+Source Health Economics,ai_tooling,AI use,Whether they use AI or which review tools they use not found,Unknown,Not found,,
+ICON Health Economics,hiring,Hiring,Health Economics practice advertised a Consultant/Health Economist role centred on systematic literature reviews and network meta-analyses; the post is marked expired,Verified,https://careers.iconplc.com/job/consultant-health-economist-systematic-literature-reviews-in-various-jid-7636,expired (undated),Y
+ICON Health Economics,offices,Offices,"Health Economics group has offices in Abingdon and London (UK) and New York and Boston (USA), per the same expired job post",Verified,https://careers.iconplc.com/job/consultant-health-economist-systematic-literature-reviews-in-various-jid-7636,expired (undated),Y
+ICON Health Economics,volume,Volume,Dedicated reviewer roles suggest steady SLR volume,Interpretation,Analyst judgement from rows above,,
+ICON Health Economics,buyer,Buying process,"Division of a large CRO, so procurement and security review likely slow a pilot",Interpretation,Analyst judgement from rows above,,
+ICON Health Economics,dates,Post dates,No live SLR vacancy confirmed; posting dates not shown on the job page,Unknown,Not found,undated,
+Costello Medical,services,Services,Leading agency for HEOR projects including literature reviews,Verified,https://www.costellomedical.com/,undated,Y
+Costello Medical,headcount,Team size,Over 500 staff,Verified,https://connect.ismpp.org/marketplace/costello,undated,Y
+Costello Medical,in_house_tool,In-house tooling,Built a bespoke web application managing record screening and tested AI-generated PICOS summaries; abstract review rate rose from 60 to 90 per hour in a limited test,Verified,https://www.ispor.org/heor-resources/presentations-database/presentation/euro2024-4015/146197,2024,Y
+Costello Medical,fit,Build vs buy,Existing in-house tooling makes buying a platform a harder sell,Interpretation,Analyst judgement from rows above,,
+Costello Medical,ai_tooling,Other platforms,Whether they also license third-party SLR platforms not found,Unknown,Not found,,
+Maven,services,Services,Site lists NLP-enabled literature reviews and proprietary AI/ML tools,Verified,https://www.mavenrs.com/health-economics-and-outcomes-research,undated,Y
+Maven,legal_name,Legal name,Legal entity name not confirmed,Unknown,Not found,,
+Maven,headcount,Size,Headcount not confirmed,Unknown,Not found,,
+Maven,clients,Customers,Customer base not confirmed,Unknown,Not found,,
+Evalueserve,competitor,Product,"Sells LitVerse, a living-SLR platform with Lit.AI automation handling screening and structured extraction",Verified,https://www.evalueserve.com/?p=34008,undated,Y
+Evalueserve,competitor,Competition,"Sells a competing product, so not a prospect",Interpretation,Analyst judgement from rows above,,
+Source Health Economics,headcount,Team size,"33 employees, offices in London and Oxford (per the sale-adviser page, undated)",Verified,https://www.clearwaterinternational.com/transactions/clearwater-international-advises-source-health-economics-on-its-sale-to-waterland-backed-sciris,undated,Y
+Source Health Economics,ownership,Ownership,"Sold to SCIRIS, a Waterland-backed group with over 300 employees (deal date not on the page)",Verified,https://www.clearwaterinternational.com/transactions/clearwater-international-advises-source-health-economics-on-its-sale-to-waterland-backed-sciris,undated,Y
+Source Health Economics,buyer,Buying process,"Now part of a larger group, so tool decisions may sit with SCIRIS rather than Source",Interpretation,Analyst judgement from rows above,,
+Source Health Economics,buyer,Decision owner,Whether Source still chooses its own review tools after the sale not found,Unknown,Not found,,
